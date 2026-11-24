@@ -1,0 +1,7 @@
+{
+  "name": "by-yaya-netlify",
+  "version": "1.0.0",
+  "private": true,
+  "description": "By Yaya – boutique de bijoux (Netlify + Netlify Blobs)",
+  "dependencies": { "@netlify/blobs": "^8.1.0" }
+}
